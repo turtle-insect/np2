@@ -1925,6 +1925,9 @@
     <ClInclude Include="..\3rd\aeffectx.h">
       <Filter>ヘッダー ファイル\3rd</Filter>
     </ClInclude>
+    <ClInclude Include="..\zlib\gzguts.h">
+      <Filter>ヘッダー ファイル\zlib</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <NASM Include="x86\cputype.x86">

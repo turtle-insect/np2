@@ -674,6 +674,7 @@
     <ClInclude Include="..\vram\sdraw.h" />
     <ClInclude Include="..\vram\vram.h" />
     <ClInclude Include="..\zlib\crc32.h" />
+    <ClInclude Include="..\zlib\gzguts.h" />
     <ClInclude Include="..\zlib\inffast.h" />
     <ClInclude Include="..\zlib\inffixed.h" />
     <ClInclude Include="..\zlib\inflate.h" />
