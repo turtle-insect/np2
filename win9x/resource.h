@@ -221,6 +221,7 @@
 #define IDC_TOOL_FDD2EJECT              18009
 #define IDC_TOOL_RESET                  18010
 #define IDC_TOOL_POWER                  18011
+#define IDC_STATIC                      -1
 #define IDS_APP_NAME2                   30001
 #define IDS_APP_NAME21                  30002
 #define IDS_FILENAME_HELP               30003

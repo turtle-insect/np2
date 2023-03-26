@@ -220,6 +220,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="ヘッダー ファイル\3rd">
+      <UniqueIdentifier>{f0514022-3290-4caa-ad35-3fed14efd721}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\calendar.c">
@@ -1915,6 +1918,12 @@
     </ClInclude>
     <ClInclude Include="..\zlib\zutil.h">
       <Filter>ヘッダー ファイル\zlib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\3rd\aeffect.h">
+      <Filter>ヘッダー ファイル\3rd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\3rd\aeffectx.h">
+      <Filter>ヘッダー ファイル\3rd</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

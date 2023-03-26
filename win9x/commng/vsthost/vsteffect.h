@@ -5,8 +5,9 @@
 
 #pragma once
 
+#include <Windows.h>
 #include <map>
-#include <pluginterfaces/vst2.x/aeffectx.h>
+#include "3rd/aeffectx.h"
 
 class IVstEditWnd;
 
