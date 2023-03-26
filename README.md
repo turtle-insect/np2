@@ -1,7 +1,7 @@
 
 # 概要
-PC98 Emulator
-[Neko Project 2](https://www.yui.ne.jp/np2/)
+PC98 Emulator  
+[Neko Project 2](https://www.yui.ne.jp/np2/)  
 [Original Readme](https://github.com/turtle-insect/np2/blob/master/README_original.md)
 
 # 実行に必要
