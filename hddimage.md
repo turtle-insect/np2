@@ -38,6 +38,7 @@ devicehigh=patacd.sys /D:CD_001
 ## HDD初期設定
 * 『sys a: c:』
 * 『copy 386\himemx.exe c:』
+* Neko -> Emulate -> Exit
 
 ## HDD自動実行スクリプト配置
 * DiskExplorer -> 作成したHard disk image
