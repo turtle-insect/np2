@@ -15,4 +15,4 @@ PC98 Emulator
 * [VST](https://www.steinberg.net/developers/)
 
 # PC98用 HDD作成方法
-* [手順書](new hdd create info.md)
+* [手順書](hddimage.md)
