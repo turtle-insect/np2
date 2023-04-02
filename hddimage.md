@@ -52,6 +52,8 @@ devicehigh=patacd.sys /D:CD_001
 ## ソフト導入
 * Neko -> Harddisk -> IDE #2 -> Open
   * ソフトのcue
+* Neko -> Emulate -> Reset
+* 『Q:』
 * 『dir』
   * 対象のインストーラーを確認
 * インストーラー実行
