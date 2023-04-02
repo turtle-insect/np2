@@ -4,6 +4,22 @@
 * [FreeDOS](http://bauxite.sakura.ne.jp/software/dos/freedos.htm)
 * [DiskExplorer](https://hp.vector.co.jp/authors/VA013937/editdisk/index.html)
 
+## 設定ファイル
+### AUTOEXEC.BAT
+```
+@echo off
+shsucdx /D:CD_001,Q /Q
+```
+### CONFIG.SYS
+```
+DOS=HIGH
+BUFFERS=6
+FILES=20
+LASTDRIVE=Z
+device=himemx.exe
+devicehigh=patacd.sys /D:CD_001
+```
+
 ## HDD作成
 * Neko -> Emulate -> New disk -> Hard disk image
   * ファイル名は任意
