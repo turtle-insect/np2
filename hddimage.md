@@ -31,7 +31,7 @@ devicehigh=patacd.sys /D:CD_001
 * Neko -> Emulate -> Reset
 
 ## HDD初期化
-* btnpart
+* 『btnpart』
   * DA/UAは画面表示されているID
 * Neko -> Emulate -> Reset
 
@@ -54,13 +54,13 @@ devicehigh=patacd.sys /D:CD_001
   * ソフトのcue
 * Neko -> Emulate -> Reset
 * 『Q:』
-* 『dir』
+* 『dir /P』
   * 対象のインストーラーを確認
 * インストーラー実行
 
 
 ## 実行ファイル確認
-* 『dir』
+* 『dir /P』
   * 対象のソフトを確認
 * 『cd ****』
   * 対象のソフトの階層へ移動
