@@ -33,6 +33,7 @@ devicehigh=patacd.sys /D:CD_001
 ## HDD初期化
 * btnpart
   * DA/UAは画面表示されているID
+* Neko -> Emulate -> Reset
 
 ## HDD初期設定
 * 『sys a: c:』
