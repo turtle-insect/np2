@@ -42,6 +42,8 @@ devicehigh=patacd.sys /D:CD_001
 * DiskExplorer -> 作成したHard disk image
   * T98Next HDD
 * ファイル追加
+  * PATACD.SYS
+  * SHSUCDX.COM
   * CONFIG.SYS
   * AUTOEXEC.BAT
 
