@@ -36,7 +36,7 @@ devicehigh=patacd.sys /D:CD_001
 * Neko -> Emulate -> Reset
 
 ## HDD初期設定
-* 『sys a: c:』
+* 『sys c:』
 * 『copy 386\himemx.exe c:』
 * Neko -> Emulate -> Exit
 
