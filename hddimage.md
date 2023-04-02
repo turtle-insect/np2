@@ -50,7 +50,6 @@ devicehigh=patacd.sys /D:CD_001
   * AUTOEXEC.BAT
 
 ## ソフト導入
-* Neko -> FDD1 -> Eject
 * Neko -> Harddisk -> IDE #2 -> Open
   * ソフトのcue
 * 『dir』
